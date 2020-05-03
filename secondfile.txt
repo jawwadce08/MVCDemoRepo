@@ -1,2 +1,2 @@
 test2
-change made by developer 2
+modified by master to test merge branch
