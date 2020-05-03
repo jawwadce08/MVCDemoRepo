@@ -1,2 +1,3 @@
 test3
 add another commit for testing testing branch
+Modified in master branch to test merge branch
